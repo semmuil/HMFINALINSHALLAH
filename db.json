@@ -1,0 +1,804 @@
+{
+    "clothes": [
+        {
+            "id": 1,
+            "maincategory": "men",
+            "name": "Regular-Fit Linen-Blend Pants",
+            "category": "Pants",
+            "price": 34.99,
+            "sizes": ["XS", "S", "M", "L", "XL", "XXL", "XXXL", "3XL"],
+            "colors": {
+                "Cream": [
+                    "https://image.hm.com/assets/hm/de/bd/debde7ca69060b5c3a4a53f3f301016ee673f01a.jpg?imwidth=2160",
+                    "https://image.hm.com/assets/hm/52/43/524387cebe41497fa03090cd37ba71483b320192.jpg?imwidth=2160",
+                    "https://image.hm.com/assets/hm/15/f1/15f136f4955571f57010dafb460693bff047073a.jpg?imwidth=2160",
+                    "https://image.hm.com/assets/hm/7d/a7/7da7442d9319870fa860aea56aebbd18e67cb391.jpg?imwidth=2160",
+                    "https://image.hm.com/assets/hm/23/fa/23fa7fd43c717d19382d355bf34fdac9e3c8ab6b.jpg?imwidth=2160",
+                    "https://image.hm.com/assets/hm/23/fa/23fa7fd43c717d19382d355bf34fdac9e3c8ab6b.jpg?imwidth=2160",
+                    "https://image.hm.com/assets/hm/5a/f6/5af699e588d72cba035f541790bd1c0278ee0c3e.jpg?imwidth=2160",
+                    "https://image.hm.com/assets/hm/66/71/66713e7bd969c9f96ed04e1266fa105d80ac59f3.jpg?imwidth=2160",
+                    "https://image.hm.com/assets/hm/42/17/421795221f77a8713a534d0a2971ff461efcfa49.jpg?imwidth=2160"
+                ],
+                "Black": [
+                    "https://image.hm.com/assets/hm/cb/33/cb33099dfb9c05d594cd656e96b37c8e73e2c536.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/61/fb/61fbdb01c8383aab23df356ff8abcb680771a549.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/d4/4d/d44d977329a6860ea6a0ae132ffda2ffd7bcfc08.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/a6/c0/a6c0c7f37740e9edc7d4158ae83a261aae73ff28.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/b0/43/b043f0f0eeaba1bcf1ea0d7937bfe6bd48925a05.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/e3/94/e394c7844203890e951f6126e2b86192140b049b.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/55/50/555078a0e5ae9ed54471a31dbd203c4bb86470a1.jpg?imwidth=1536",
+                    "."
+                ]
+            },
+            "Description & fit": "Regular-fit pants in an airy, woven cotton and linen blend with a comfortable, classic silhouette. Drawstring and covered elastic at waistband and zip fly with button. Side pockets and a welt back pocket. Cotton and linen blends combine the softness of cotton with the sturdiness of linen, creating a beautiful, textured fabric that is breathable and perfectly draped.",
+            "Size:": "Inner leg: Length: 32 in (Size L)",
+            "Length": "Long",
+            "Waist Rise:": "Regular waist",
+            "Fit": "Regular fit",
+            "Style": "Pull-on pants",
+            "Description":"Cream, Solid-color",
+            "Imported": "Yes",
+            "Material": "Cotton 55%, Linen 45%",
+            "Pocket lining":"Polyester 65%, Cotton 35%",
+            "Care instructions": "Machine wash warm, normal cycle. Do not bleach. Tumble dry low. Iron medium temperature. Do not dry-clean.",
+            "Delivery and payments": "SHIPPING: Shipping is available to customers at least 13 years of age with a valid US shipping and billing address. H&M HOME furniture, shelving, lighting and area rugs can only be shipped via standard shipping. Orders placed using any other method will be cancelled and a refund will be issued. PAYMENT: We accept card payments via Visa, Apple Pay, MasterCard, Discover and American Express. You can also pay with Klarna's flexible payment options, PayPal and H&M Gift Cards. Learn more on our customer service pages."
+        },
+        {
+            "id": 55555555,
+            "maincategory": "women",
+            "name": "Crossbody Bag",
+            "category": "Bags",
+            "price": 29.99,
+            "sizes": [],
+            "colors": {
+                "Cream": [
+                    "https://image.hm.com/assets/hm/95/19/9519dfc49e205226b435f82651941fec65400bd4.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/39/1e/391ebff12d93125cd60908c72370e4ce408ccc44.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/5a/20/5a2060eb3e83e8b97d8295be5c5265ea8ca70098.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/a3/5a/a35a92106a4fa2ee7dcd88015fd052b609bd6ead.jpg?imwidth=1536"
+                ],
+                "Dark Beige": [
+                    "https://image.hm.com/assets/hm/9e/ba/9ebaa3c31d55a9d4cb6601bb70c49e8c82b6146d.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/3e/5d/3e5d95a1e707af876e02b7222a8b50a115dd65ae.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/02/5e/025ea34dbdbf8375b3995e21b2a0f71da62e8227.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/c6/fc/c6fc3ed1d6d2d32c86a4b04074fdd811357f8072.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/7d/10/7d10e711bc06575d63a473876fa47625347ae5da.jpg?imwidth=1536"
+                ]
+            },
+            "Description & fit": "Regular-fit pants in an airy, woven cotton and linen blend with a comfortable, classic silhouette. Drawstring and covered elastic at waistband and zip fly with button. Side pockets and a welt back pocket. Cotton and linen blends combine the softness of cotton with the sturdiness of linen, creating a beautiful, textured fabric that is breathable and perfectly draped.",
+            "Size:": "Inner leg: Length: 32 in (Size L)",
+            "Length": "Long",
+            "Waist Rise:": "Regular waist",
+            "Fit": "Regular fit",
+            "Style": "Pull-on pants",
+            "Description":"Cream, Solid-color",
+            "Imported": "Yes",
+            "Material": "Cotton 55%, Linen 45%",
+            "Pocket lining":"Polyester 65%, Cotton 35%",
+            "Care instructions": "Machine wash warm, normal cycle. Do not bleach. Tumble dry low. Iron medium temperature. Do not dry-clean.",
+            "Delivery and payments": "SHIPPING: Shipping is available to customers at least 13 years of age with a valid US shipping and billing address. H&M HOME furniture, shelving, lighting and area rugs can only be shipped via standard shipping. Orders placed using any other method will be cancelled and a refund will be issued. PAYMENT: We accept card payments via Visa, Apple Pay, MasterCard, Discover and American Express. You can also pay with Klarna's flexible payment options, PayPal and H&M Gift Cards. Learn more on our customer service pages."
+        },
+        {
+            "id": 2,
+            "maincategory": "men",
+            "name": "Slim-Fit Chino Pants",
+            "category": "Pants",
+            "price": 24.99,
+            "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+            "colors": {
+                "Beige": [
+                    "https://image.hm.com/assets/hm/ea/3b/ea3b864ab5e3094a3bf80ae7372d3516c9c2d5fb.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/06/a2/06a2c81ad4da0e9212a32234da50ee1e6ad88311.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/c8/36/c8367adfe9d4a2f7ba6cc8a765d74f160003a683.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/85/4f/854f05e5edde495ba0d43239744aa4c9374b623e.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/05/ea/05eaf4f96d11a3cb3ef7124aeaf4a94f6c9260a3.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/44/0c/440c7276f1a3a02b736b1d5ba7bfe3997ec9be74.jpg?imwidth=1536"
+                ],
+                "Navy Blue": [
+                    "https://image.hm.com/assets/hm/44/a4/44a4c4cc0c497e4b5e45201d2b4a3bb11e1a0c9c.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/de/2b/de2be9751ca01eadcea7b991620fe20174b7e5e7.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/69/60/69605e002a92779c513115ecb98bf1d94b4d5773.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/4d/c6/4dc646659bcf85f70764b9199c89114102251647.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/72/9d/729d4bc34c3391f4f26d1d29bc1d4f09408c78df.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/88/5c/885c50583c5a8d5cc14b6028de734c3c38f5dc2d.jpg?imwidth=1536"
+                ]
+            },
+            "Description & fit": "Slim-fit chino pants in woven cotton twill with a sleek, modern silhouette. Button and zip fly, side pockets, and welt back pockets. Classic chino styling perfect for both casual and smart-casual occasions.",
+            "Size:": "Inner leg: Length: 32 in (Size L)",
+            "Length": "Long",
+            "Waist Rise:": "Regular waist",
+            "Fit": "Slim fit",
+            "Style": "Chino pants",
+            "Description":"Solid-color chino",
+            "Imported": "Yes",
+            "Material": "Cotton 98%, Elastane 2%",
+            "Care instructions": "Machine wash warm, normal cycle. Do not bleach. Tumble dry low. Iron medium temperature. Do not dry-clean."
+        },
+        {
+            "id": 3,
+            "maincategory": "men",
+            "name": "Regular-Fit Cotton T-Shirt",
+            "category": "T-shirts",
+            "price": 9.99,
+            "sizes": ["XS", "S", "M", "L", "XL", "XXL", "XXXL"],
+            "colors": {
+                "Black": [
+                    "https://image.hm.com/assets/hm/ba/f9/baf9ae5354aeeffd3123060ca22d59166d552c6e.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/1f/ab/1fab3293286ca15edae329d6cdc9edfe2de6885b.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/83/08/8308a8a9fe0a2830b7c866a6f3de0704bde24666.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/c4/97/c497e8f269bf9c91c8256b0cb40d334974676656.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/44/42/4442fbac4e3080ec20b2f14e353fea267249b0dd.jpg?imwidth=15360",
+                    "https://image.hm.com/assets/hm/bd/df/bddf2d435d2f48af8ca30a3f93360f59a092372d.jpg?imwidth=1536"
+                ],
+                "White": [
+                    "https://image.hm.com/assets/hm/d0/47/d047a59f10d335e2351218f2bb286be6fc0a94b4.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/88/73/88730dddd4c8bd353b6f5936fa5d402e32efcca4.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/55/26/55262a27abd8b5b6004b2c18968d3137e98c58a7.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/15/e2/15e248a5db0d4c0cb12ee3ce05801d734d1fbdb2.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/bd/e4/bde4ef42f917ccb678c4ff1d218520ce2f10ff6d.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/ea/8d/ea8d96590fcdac8f92ed69c6ae119ede1325530b.jpg?imwidth=1536"
+                ]
+            },
+            "Description & fit": "Regular-fit T-shirt in soft cotton jersey with a classic crew neckline and short sleeves. Perfect basic piece for everyday wear and layering.",
+            "Length": "Regular",
+            "Fit": "Regular fit",
+            "Style": "Crew neck T-shirt",
+            "Description":"Solid-color basic tee",
+            "Imported": "Yes",
+            "Material": "Cotton 100%",
+            "Care instructions": "Machine wash warm, normal cycle. Do not bleach. Tumble dry low. Iron low temperature."
+        },
+        {
+            "id": 4,
+            "maincategory": "men",
+            "name": "Muscle-Fit Graphic T-Shirt",
+            "category": "T-shirts",
+            "price": 14.99,
+            "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+            "colors": {
+                "Black": [
+                    "https://image.hm.com/assets/hm/9c/88/9c88ddb1d62f7ea8ef5a5ec5ba9c03e286a27d0b.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/b5/2f/b52f4c27cdb99ba3e21a73f61db40e3870ed07b6.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/cb/70/cb707a0747c8ce62e18c7236ddbfea431e976ca6.jpg?imwidth=1536"
+                ],
+                "Dark Gray": [
+                    "https://image.hm.com/assets/hm/ef/33/ef332465216721eb99e158fddef7ca1d69d200a7.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/34/12/34124a715a6d5b45e5da7ff2fbb66b592e97a998.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/38/e9/38e999c0cf4ba57a29f48b2e54468ee9bee9be2d.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/a6/10/a61095f0d1c9f82ad3e1c0ffbaa823d567d9aca7.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/36/38/3638529e6060ead449afee3067425e0013503383.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/e2/3c/e23ca60e87a711255eb8b701cc124c5efaaa1cc6.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/69/30/6930ded651c94aeb1455278119108d88bf57843c.jpg?imwidth=1536"
+                ]
+            },
+            "Description & fit": "Muscle-fit T-shirt in soft cotton jersey with a printed design on the front. Crew neckline and short sleeves. Close-fitting silhouette that follows the body's contours.",
+            "Length": "Regular",
+            "Fit": "Muscle fit",
+            "Style": "Graphic T-shirt",
+            "Description":"Printed graphic design",
+            "Imported": "Yes",
+            "Material": "Cotton 100%",
+            "Care instructions": "Machine wash warm, normal cycle. Do not bleach. Tumble dry low. Iron low temperature."
+        },
+        {
+            "id": 6,
+            "maincategory": "men",
+            "name": "Relaxed-Fit Flannel Shirt",
+            "category": "Shirts",
+            "price": 29.99,
+            "sizes": ["S", "M", "L", "XL", "XXL"],
+            "colors": {
+                "Red/Black Check": [
+                    "https://image.hm.com/assets/hm/6b/ec/6becf84f5c26f3573a4dfc177db2fc4d0990ddcc.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/8f/bf/8fbf1b2f242192064deb8a46de0dd1c5e266daee.jpg?imwidth=1536"
+                ]
+            },
+            "Description & fit": "Relaxed-fit shirt in soft cotton flannel with a classic check pattern. Spread collar, button placket, and long sleeves with buttoned cuffs. Two chest pockets with flaps. Perfect for casual weekend wear.",
+            "Length": "Regular",
+            "Fit": "Relaxed fit",
+            "Style": "Flannel shirt",
+            "Description":"Check pattern flannel",
+            "Imported": "Yes",
+            "Material": "Cotton 100%",
+            "Care instructions": "Machine wash warm, normal cycle. Do not bleach. Tumble dry low. Iron medium temperature."
+        },
+        {
+            "id": 7,
+            "maincategory": "men",
+            "name": "Slim-Fit Denim Jeans",
+            "category": "Jeans",
+            "price": 39.99,
+            "sizes": ["28", "30", "32", "34", "36", "38", "40"],
+            "colors": {
+                "Dark Denim Blue": [
+                    "https://image.hm.com/assets/hm/bc/44/bc44e64bacdc54f76a8c162bfb59c7b46389c8a8.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/93/7d/937d425080835416bc73b2b2feb4534e8971eb02.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/24/4a/244a37794c2a559f86bbd30627ec87b78b1f768e.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/d0/92/d09275ac9d0e4b0f11191122bba18c50f0dee7f4.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/fb/8c/fb8c9cd13d78a0f1c31fffe257a80351dc36ad2a.jpg?imwidth=1536"
+                ],
+                "Black": [
+                    "https://image.hm.com/assets/hm/09/60/0960bc6def692b77cd1a3858e03359b10dc8d821.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/9d/2d/9d2d00bb23bc618eb0e900e4dd3c90e59b59c902.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/75/89/7589c51434d371cfc39e4b20427074ec4e069943.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/db/fb/dbfbc515a4da41b7bcc224c02edfd41386558e3f.jpg?imwidth=1536"
+                ]
+            },
+            "Description & fit": "Slim-fit jeans in washed denim with a modern, tapered silhouette. Five-pocket styling with button and zip fly. Slightly stretchy for comfort and mobility.",
+            "Size:": "Inner leg: Length: 32 in (Size 32)",
+            "Length": "Long",
+            "Waist Rise:": "Regular waist",
+            "Fit": "Slim fit",
+            "Style": "5-pocket jeans",
+            "Description":"Classic denim styling",
+            "Imported": "Yes",
+            "Material": "Cotton 79%, Polyester 20%, Elastane 1%",
+            "Care instructions": "Machine wash warm, normal cycle. Do not bleach. Tumble dry low. Iron medium temperature."
+        },
+        {
+            "id": 8,
+            "maincategory": "men",
+            "name": "Regular-Fit Straight Jeans",
+            "category": "jeans",
+            "price": 34.99,
+            "sizes": ["28", "30", "32", "34", "36", "38", "40", "42"],
+            "colors": {
+                "Dark Blue": [
+                    "https://image.hm.com/assets/hm/a6/a2/a6a2dd95717b3b3dd47aee25f3c284a307a65be0.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/f5/cd/f5cd5edb131ab0893400bcf87f4f15e89b8fb380.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/93/c5/93c5ac6d0d88a82030a1f36d9da5f7bb282467d3.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/b3/b5/b3b530c199887276b5c435ac5a684e114ff34639.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/06/9a/069a972d1e7bf25afd0163de9fc437ffdc6c09ce.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/a7/21/a7213401955654652a80a65c9a30edacc5191fb6.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/8b/ea/8bea8bac07ed75596e5597f6d2997f07cfd81fac.jpg?imwidth=1536",
+                    ""
+                ],
+                "Light Blue Wash": [
+                    "https://image.hm.com/assets/hm/23/1e/231eb4e9869221d6cedc4eb4902c0b6e2e9e9c99.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/de/ae/deae536c823d86ee2663b3f9c7c7772820fa7ecc.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/55/c7/55c7a0a4256a1eee807b8b6664de5dfff472902c.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/f7/70/f7705e9558c4b1aec042472e4da2aa8b1e4b48a3.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/15/6e/156e0084e19f73cc7792473d7b3665af56e40621.jpg?imwidth=1536"
+                ]
+            },
+            "Description & fit": "Regular-fit jeans in classic denim with a straight leg and comfortable fit. Five-pocket styling with button and zip fly. Timeless straight-leg silhouette that works for any occasion.",
+            "Size:": "Inner leg: Length: 32 in (Size 32)",
+            "Length": "Long",
+            "Waist Rise:": "Regular waist",
+            "Fit": "Regular fit",
+            "Style": "Straight-leg jeans",
+            "Description":"Classic straight-leg denim",
+            "Imported": "Yes",
+            "Material": "Cotton 100%",
+            "Care instructions": "Machine wash warm, normal cycle. Do not bleach. Tumble dry low. Iron medium temperature."
+        },
+        {
+            "id": 9,
+            "maincategory": "men",
+            "name": "Regular-Fit Hoodie",
+            "category": "hoodies",
+            "price": 24.99,
+            "sizes": ["XS", "S", "M", "L", "XL", "XXL", "3XL"],
+            "colors": {
+                "Black": [
+                    "https://image.hm.com/assets/hm/49/83/4983b6f2d76e818baf44981f1e91d8355f1aac06.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/ef/51/ef517fa31b5d8e2bcbcf75b1ef877180e1b5fc89.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/a1/40/a14094022ed56fb6a1f9361d388f9dbd78b57a4d.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/ed/27/ed27c480526e63a7ba0d069d4773671273ea29a8.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/2c/83/2c8348a40f6178aafd1b7c4df44315d468f3c9c3.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/15/65/156520b87d12bc6448b30cf36f40c3e4f7b72682.jpg?imwidth=657"
+                ],
+                "White": [
+                    "https://image.hm.com/assets/hm/af/60/af60746557b1a5d90578cdaa3c39c3f04f7294ab.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/cb/40/cb403f8c6308c4645e39a6e910f1c00fc6a3ec32.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/3d/da/3ddabd6e6dd56bcd85390d216da4f26bba09d78b.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/87/7d/877d4cee9a7f136ea590b969c9effe357ecf7fb2.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/4a/5f/4a5f8089cb2e5444f5f6412d505ecee7b467bb6e.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/10/1f/101f0754d1860689b94254ffe8eaf51220b134b3.jpg?imwidth=657"
+                ]
+            },
+            "Description & fit": "Regular-fit hoodie in soft cotton blend with a lined hood, kangaroo pocket, and long sleeves. Ribbed cuffs and hem. Perfect for casual wear and layering.",
+            "Length": "Regular",
+            "Fit": "Regular fit",
+            "Style": "Pullover hoodie",
+            "Description":"Solid-color hoodie",
+            "Imported": "Yes",
+            "Material": "Cotton 80%, Polyester 20%",
+            "Care instructions": "Machine wash warm, normal cycle. Do not bleach. Tumble dry low. Iron low temperature."
+        },
+        {
+            "id": 10,
+            "maincategory": "men",
+            "name": "Oversized Zip-Up Hoodie",
+            "category": "hoodies",
+            "price": 34.99,
+            "sizes": ["S", "M", "L", "XL", "XXL"],
+            "colors": {
+                "Black": [
+                    "https://image.hm.com/assets/hm/29/ce/29ce680d6fa7ead0dc4e500d8bd3367cad600bd5.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/52/29/52292c029a21afb5bec60201266b0d5942c7f25c.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/fe/74/fe74c8500ec42ab7549deab69cf921f6e84584c1.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/99/4d/994d5a9444a1b314b4b02f07a2b36d0da8e08bb4.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/ff/b6/ffb61dced7740391aef7c0390a90d7d3599f4f71.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/4e/bf/4ebffced0ddbc296394087ad227d74fc4178cd0a.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/b9/a0/b9a00589235288ebcf627c18f3a991ef8b037f35.jpg?imwidth=657"
+                ],
+                "Gray Melange": [
+                    "https://image.hm.com/assets/hm/09/a9/09a949c96a8ecbc353fe31163e9f808c3c16c442.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/72/dd/72dd1c117754e35ede8459dc12a0984890fbc683.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/ec/2a/ec2ae216d762e3ec6fb88f6ee0950da836a475b0.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/9b/e9/9be9119e7dcb9dae524cbf5f00a0023cd92f660f.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/0b/0e/0b0ea67e252ffc223e323fe8453189ce42d01a8c.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/77/47/77476bb5a60aa990161f4c39938d42cb620f0733.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/e5/1b/e51b6ddacea22ce11bad5fbc7c14da88ec5730cb.jpg?imwidth=657"
+                ]
+            },
+            "Description & fit": "Oversized zip-up hoodie in soft cotton blend with a relaxed fit. Lined hood with drawstring, full-length zip, and side pockets. Dropped shoulders for a contemporary silhouette.",
+            "Length": "Regular",
+            "Fit": "Oversized fit",
+            "Style": "Zip-up hoodie",
+            "Description":"Oversized zip hoodie",
+            "Imported": "Yes",
+            "Material": "Cotton 70%, Polyester 30%",
+            "Care instructions": "Machine wash warm, normal cycle. Do not bleach. Tumble dry low. Iron low temperature."
+        },
+        {
+            "id": 11,
+            "maincategory": "women",
+            "name": "Regular-Fit Blazer",
+            "category": "blazers",
+            "price": 59.99,
+            "sizes": ["34R", "36R", "38R", "40R", "42R", "44R", "46R"],
+            "colors": {
+                "Dark Green": [
+                    "https://image.hm.com/assets/hm/cf/5d/cf5dd16310d4111b2463f2f43fbff66bb8931902.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/61/f7/61f702eff82612b60cf1846b9ff6ecd1b0637928.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/f7/67/f767271cc35bcf1495201a21386cb62156ae6bdd.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/3a/e5/3ae59326a4985bbb05ffdc39ebb3d33a40245d1b.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/44/80/44807a87b4a4b2dbf6fef815be99cb21f4739ac0.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/f1/6f/f16f8a02eafdbd6116dbf53501fa5c0f856c6a58.jpg?imwidth=657"
+                ],
+                "Charcoal": [
+                    "https://image.hm.com/assets/hm/89/68/89687fd30cfb26e950f2a77a35764749d3052ec5.jpg?imwidth=768",
+                    "https://image.hm.com/assets/hm/12/da/12dad7d9012168e982a511274b2dfc7dca64ce20.jpg?imwidth=768",
+                    "https://image.hm.com/assets/hm/b2/20/b2201ca92fdc7b79552bf2565cba74c3585ca3e4.jpg?imwidth=768",
+                    "https://image.hm.com/assets/hm/72/dd/72dd1c117754e35ede8459dc12a0984890fbc683.jpg?imwidth=768",
+                    "https://image.hm.com/assets/hm/9c/f2/9cf2730daa93c465cbaf1ef09c4569a747f2fad4.jpg?imwidth=768",
+                    "https://image.hm.com/assets/hm/6c/cd/6ccd0a49ca068832e6f79ca75d0d81ea151e25b5.jpg?imwidth=768",
+                    "https://image.hm.com/assets/hm/09/79/09799a79530f58c796ef1391968da0a76e90c9be.jpg?imwidth=657"
+
+                ]
+            },
+            "Description & fit": "Regular-fit blazer in woven fabric with a classic silhouette. Notched lapels, button placket, and side pockets. Fully lined for a premium feel. Perfect for business and formal occasions.",
+            "Length": "Regular",
+            "Fit": "Regular fit",
+            "Style": "Single-breasted blazer",
+            "Description":"Classic business blazer",
+            "Imported": "Yes",
+            "Material": "Polyester 65%, Viscose 33%, Elastane 2%",
+            "Lining": "Polyester 100%",
+            "Care instructions": "Dry clean only."
+        },
+        {
+            "id": 13,
+            "maincategory": "women",
+            "name": "Classic Crew Neck Sweater",
+            "category": "sweaters",
+            "price": 29.99,
+            "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+            "colors": {
+                "Black": [
+                    "https://image.hm.com/assets/hm/11/6b/116b2da83b080ed94c4614225ec2d856a524b780.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/73/c3/73c3219886cfbd93db2462f8faf0c1a66f25fe3c.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/80/60/806057bf9a251634a762ede35b4b4f650d92e93c.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/a1/de/a1dee31c661b800b68211704fa1655766ec91e2e.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/46/a0/46a06782119c2af1133e946e0fe7fa9513d7f11e.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/ca/aa/caaabf2d1307f296b8317ecb2adb45dca8ecb0d4.jpg?imwidth=657"
+                ],
+                "Cream": []
+            },
+            "Description & fit": "Classic crew neck sweater in soft knit fabric with ribbed neckline, cuffs, and hem. Regular fit with a timeless silhouette perfect for layering or wearing alone.",
+            "Length": "Regular",
+            "Fit": "Regular fit",
+            "Style": "Crew neck sweater",
+            "Description": "Classic knit sweater",
+            "Imported": "Yes",
+            "Material": "Acrylic 50%, Cotton 50%",
+            "Care instructions": "Machine wash cold, gentle cycle. Do not bleach. Lay flat to dry. Iron low temperature."
+        },
+        {
+            "id": 111,
+            "maincategory": "women",
+            "name": "Relaxed-Fit Linen Blend Blouse",
+            "category": "Blouses",
+            "price": 29.99,
+            "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+            "colors": {
+                "Red": [
+                    "https://image.hm.com/assets/hm/18/8d/188d32f7bc970d85fdddaa43c770bdddfe5cc4be.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/91/f7/91f7098ee1255ce297cfc17937d6108e2d7fb2ff.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/cb/00/cb005479214d42a61ab4876edc0ae6637aecf468.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/9c/90/9c90bd5df08e20c0637c1c062165281048261246.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/9c/b5/9cb54b8ad042c819402bdb94b855aea00671121d.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/98/75/987522ad675f5bce1cb67de7e186100c1723051c.jpg?imwidth=1536"
+                ],
+                "White": [
+                    "https://image.hm.com/assets/hm/0a/fc/0afc0a54565996e6499cd3d121c944c54248897b.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/17/2e/172e97257a6aee4e390438ff27c77ac6a41864ca.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/69/13/6913992c0e66603e93c3c5f0f51cd9bd095b112f.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/08/e4/08e43e6afb4a2f539fc1da39b2a8253685d02f6f.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/de/14/de1415e02cdcda7c30031e08766239227717327e.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/d5/5e/d55e645d9baed3151a5a47c30e475b462b28152e.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/e1/d1/e1d1f6d5444d973690f11763dd8f66bb6c871b69.jpg?imwidth=1536"
+                ]
+            },
+            "Description & fit": "Relaxed-fit blouse in an airy linen blend with a soft drape and comfortable fit. V-neckline, three-quarter length sleeves with button cuffs, and a slightly curved hem. Perfect for both casual and dressy occasions.",
+            "Length": "Regular",
+            "Fit": "Relaxed fit",
+            "Style": "V-neck blouse",
+            "Description": "Solid-color linen blend",
+            "Imported": "Yes",
+            "Material": "Linen 55%, Cotton 45%",
+            "Care instructions": "Machine wash cold, gentle cycle. Do not bleach. Hang to dry. Iron medium temperature. Do not dry-clean.",
+            "Delivery and payments": "SHIPPING: Shipping is available to customers at least 13 years of age with a valid US shipping and billing address. H&M HOME furniture, shelving, lighting and area rugs can only be shipped via standard shipping. Orders placed using any other method will be cancelled and a refund will be issued. PAYMENT: We accept card payments via Visa, Apple Pay, MasterCard, Discover and American Express. You can also pay with Klarna's flexible payment options, PayPal and H&M Gift Cards. Learn more on our customer service pages."
+        },
+        {
+            "id": 211,
+            "maincategory": "women",
+            "name": "Nirvana Fitted T-Shirt",
+            "category": "Tops",
+            "price": 12.99,
+            "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+            "colors": {
+                "White": [
+                    "https://image.hm.com/assets/hm/ee/58/ee58a54f6f9d55fa09ab7df6275a9cbb1f4d8950.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/08/ee/08ee632281cc3bf293fb0fb932403ecd161e438d.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/66/32/66324792dd2808a4f3b234eddf830e145a7e11b2.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/29/78/297846b380d28b21e1fe0301e5fe89835a2626d0.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/c3/5d/c35dc41cacb216944dc54cdbe3bf0c43b3b35add.jpg?imwidth=1536"
+                ],
+                "Pink": [
+                    "https://image.hm.com/assets/hm/4e/55/4e55007f4208f116a323b4c9784617a69948be65.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/82/97/8297505db64b442c71cb6d1ec4b7b1c695fc000c.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/f7/ad/f7ad4b6ce584bbb5536b5a12ff78143003f7be81.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/99/82/998240abf67f0ac2e822dec03bd67c54c22a0ea9.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/31/4f/314f3b612c5a70468dde8c6a99be10043d789105.jpg?imwidth=1536"
+                ]
+            },
+            "Description & fit": "Fitted T-shirt in soft ribbed cotton jersey with a crew neckline and short sleeves. Close-fitting silhouette that follows the body's contours. Perfect basic piece for layering.",
+            "Length": "Regular",
+            "Fit": "Fitted",
+            "Style": "Crew neck T-shirt",
+            "Description": "Solid-color ribbed tee",
+            "Imported": "Yes",
+            "Material": "Cotton 95%, Elastane 5%",
+            "Care instructions": "Machine wash warm, normal cycle. Do not bleach. Tumble dry low. Iron low temperature."
+        },
+        {
+            "id": 311,
+            "maincategory": "women",
+            "name": "Straight High Ankle Jeans",
+            "category": "Jeans",
+            "price": 39.99,
+            "sizes": ["24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34"],
+            "colors": {
+                "Dark Blue": [
+                    "https://image.hm.com/assets/hm/o5/67/o567c8d9e0f1a2b3c4d5e6f7g8h9i0j1k2l3m4n5.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/p6/78/p678d9e0f1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/q7/89/q789e0f1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/r8/90/r890f1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8.jpg?imwidth=1536"
+                ],
+                "Light Wash": [
+                    "https://image.hm.com/assets/hm/e7/dc/e7dcb41a004cb58f09439d797a3a0650de64a4aa.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/43/92/4392e68d4da34b29e12f85a41e00ae4691190dc5.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/0e/b6/0eb61f6a2fb462a57ea3f92cc157d5da745ef361.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/d0/16/d016e45bb1c0d66a0f75e154b6509dab221477af.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/88/62/8862c53484ea4462c917223588ac1e5cd9b05b7a.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/6c/b7/6cb7a603476da0dd31e5f309d907437c0eba58fe.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/17/f7/17f7fa1883d113e11ec459c7d548d1c491b017eb.jpg?imwidth=1536"
+                ]
+            },
+            "Description & fit": "High-waisted straight leg jeans in washed denim with a vintage-inspired fit. Five-pocket styling with button and zip fly. The straight leg creates a flattering silhouette that works with any shoe style.",
+            "Size:": "Inner leg: Length: 32 in (Size 27)",
+            "Length": "Long",
+            "Waist Rise": "High waist",
+            "Fit": "Straight leg",
+            "Style": "5-pocket jeans",
+            "Description": "Classic denim styling",
+            "Imported": "Yes",
+            "Material": "Cotton 99%, Elastane 1%",
+            "Care instructions": "Machine wash cold, normal cycle. Do not bleach. Tumble dry low. Iron medium temperature."
+        },
+        {
+            "id": 411,
+            "maincategory": "women",
+            "name": "Midi Wrap Dress",
+            "category": "Dresses",
+            "price": 34.99,
+            "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+            "colors": {
+                "Red White Floral": [
+                    "https://image.hm.com/assets/hm/d4/61/d461f8b652e2cdeeccccf6cf7cef3be84ef5908d.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/e2/bc/e2bc59dd0bd86023f5a3d408fbcb078ecd73d153.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/7f/6d/7f6d01851c72338fd5ef5ea230169a24bef7769c.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/70/6f/706f2218b5c645b47e6439c9ef439f83581f6271.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/94/97/94977b0fd13ddc7afc1b0de62b317501533e79a1.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/1a/c6/1ac61fb647730e3e4a016e33c6d4ef0a4012ef7c.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/95/e8/95e835036e89d8b27d855bacf1d24b3960d747de.jpg?imwidth=1536"
+                ],
+                "Black White Floral": [
+                    "https://image.hm.com/assets/hm/65/2d/652de0dbb92cd3da1fab8321901140eb3af8e004.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/92/94/92946f4cabe6840a6ffc86a855711059dce29cbf.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/fb/6e/fb6e248d42679d8340838c47d8c0af490acab759.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/bd/35/bd354835d40d08f207e87b083ff139a15db3b280.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/96/36/9636f051a0c3a978c45b342570a4d446c1364f44.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/b1/e2/b1e263c9b271cba849dfee97f3b6af4adc476dce.jpg?imwidth=1536"
+                ]
+            },
+            "Description & fit": "Midi-length wrap dress in woven fabric with an all-over floral print. V-neckline, short sleeves, and tie belt at waist. The wrap style creates a flattering silhouette suitable for both day and evening wear.",
+            "Length": "Midi",
+            "Fit": "Regular fit",
+            "Style": "Wrap dress",
+            "Description": "Floral print wrap dress",
+            "Imported": "Yes",
+            "Material": "Polyester 100%",
+            "Care instructions": "Machine wash cold, gentle cycle. Do not bleach. Hang to dry. Iron low temperature."
+        },
+        {
+            "id": 511,
+            "maincategory": "women",
+            "name": "Cropped Cardigan",
+            "category": "Knitwear",
+            "price": 24.99,
+            "sizes": ["XS", "S", "M", "L", "XL"],
+            "colors": {
+                "Cream": [
+                    "https://image.hm.com/assets/hm/75/2a/752aa759bc7e2b51bc2ff0d814b36b2eb617f4c1.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/51/bd/51bdb9fb132c681d9139967ee70a1a3322cf3f2c.jpg?imwidth=1536"
+                ],
+                "Black": [
+                    "https://image.hm.com/assets/hm/e1/fc/e1fc5224aec080a03615e748b5f4d437d0c2ef59.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/77/2b/772b99d48e3a250dbb94847f714e0dc864570c8b.jpg?imwidth=1536"
+                ]
+            },
+            "Description & fit": "Cropped cardigan in soft knit with button closure, V-neckline, and long sleeves. Ribbed cuffs and hem. Perfect layering piece that pairs well with high-waisted bottoms.",
+            "Length": "Cropped",
+            "Fit": "Regular fit",
+            "Style": "Button-up cardigan",
+            "Description": "Solid-color cropped cardigan",
+            "Imported": "Yes",
+            "Material": "Acrylic 80%, Cotton 20%",
+            "Care instructions": "Machine wash cold, gentle cycle. Do not bleach. Lay flat to dry. Iron low temperature."
+        },
+        {
+            "id": 611,
+            "maincategory": "women",
+            "name": "Wide High Jeans",
+            "category": "Pants",
+            "price": 29.99,
+            "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+            "colors": {
+                "Leopard Print": [
+                    "https://image.hm.com/assets/hm/i5/67/i567q8r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/j6/78/j678r9s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/k7/89/k789s0t1u2v3w4x5y6z7a8b9c0d1e2f3g4h5i6j7.jpg?imwidth=1536"
+                ],
+                "Blue": [
+                    "https://image.hm.com/assets/hm/1c/80/1c80634188ab808eab81ee7a85ed29fa321e7c08.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/12/88/12886ee1afad1860805038e0453ab65cbb32933f.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/cd/9c/cd9c097b6550b22cf35f59d8d4a01f320c7273f5.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/f7/92/f79264b305a1fd07960f23d791072d7687b29495.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/22/01/22013ad95238774d89a6dfc4a1620e68707fb1dc.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/b3/88/b38800968354755766459485a3f82fe1f03ad097.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/c5/9e/c59eb6806854bb053d8ca1d887e765785591ad27.jpg?imwidth=1536"
+                ]
+            },
+            "Description & fit": "Wide-leg trousers in woven fabric with an elastic waistband and relaxed, flowing silhouette. Side seam pockets and a comfortable fit that's perfect for both casual and dressy occasions.",
+            "Length": "Long",
+            "Waist Rise": "High waist",
+            "Fit": "Wide leg",
+            "Style": "Pull-on trousers",
+            "Description": "Solid-color wide leg",
+            "Imported": "Yes",
+            "Material": "Polyester 65%, Viscose 30%, Elastane 5%",
+            "Care instructions": "Machine wash cold, gentle cycle. Do not bleach. Tumble dry low. Iron low temperature."
+        },
+        {
+            "id": 711,
+            "maincategory": "women",
+            "name": "Rib-knit peplum top",
+            "category": "Tops",
+            "price": 19.99,
+            "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+            "colors": {
+                "Grey": [
+                    "https://image.hm.com/assets/hm/fe/ad/feadc26d47d5a252c073c0da488a80abc212d9a0.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/3f/2d/3f2d2af02b9abbd285afd0964a248c3d23691464.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/p2/34/p234x5y6z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2.jpg?imwidth=1536"
+                ],
+                "Brown": [
+                    "https://image.hm.com/assets/hm/6e/ba/6ebab0313a9ed84e56154fcf0ee03c0097b4ea14.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/14/f2/14f2659725470ecc6c717c06a961754f7616c599.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/7b/1b/7b1bdccba248b685854dfa95572e8e360c4546b5.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/9e/30/9e30a6011dc28f3089869d10d55e6940464e463e.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/3e/f1/3ef1b6d26a3f9db69e02325656579cca2a26ffe7.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/dd/34/dd34399490a7631d9b80a11accf3e340d23797af.jpg?imwidth=1536"
+                ]
+            },
+            "Description & fit": "Camisole in smooth satin with adjustable shoulder straps and a straight-cut hem. Elegant piece perfect for layering under jackets or wearing on its own for evening occasions.",
+            "Length": "Regular",
+            "Fit": "Regular fit",
+            "Style": "Satin camisole",
+            "Description": "Solid-color satin top",
+            "Imported": "Yes",
+            "Material": "Polyester 100%",
+            "Care instructions": "Machine wash cold, gentle cycle. Do not bleach. Hang to dry. Iron low temperature."
+        },
+        {
+            "id": 811,
+            "maincategory": "women",
+            "name": "Denim Jacket",
+            "category": "Jackets",
+            "price": 49.99,
+            "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+            "colors": {
+                "Dark Denim Blue": [
+                    "https://image.hm.com/assets/hm/a2/4d/a24d1e91efc4f7f6a16b5a57b8f154a2fb1c7499.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/5a/61/5a61d1f8455acbb5839240b10b4041bc3d92bcd1.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/18/7f/187f782e483f643afeebcc93fbc8df578006bf3b.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/40/04/4004fde593c535a2993db9f3a3dd08f967c6fb43.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/cf/a5/cfa5c33ea227b8b2a3de4963a65ea2a4157048ce.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/c2/f8/c2f847228a423c7988c998a7b3cb2b1a90b11a0e.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/c9/c4/c9c460dc940086ee4df87a79ef1366fe4c8602e7.jpg?imwidth=1536"
+                ],
+                "White": [
+                    "https://image.hm.com/assets/hm/f0/e5/f0e52c2b05d73861d4809026234a3e2f76970d38.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/54/62/546256ce5a76348cf83f51cf74023b441f86a02a.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/4a/06/4a061bed05db976b0d5951054c2596476c4e05f1.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/fd/19/fd1904a895601c9bed8d1e5a56224d508337a5e5.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/5d/52/5d52371fe3d4b765a385e7d12d789bdffe857dab.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/39/39/3939a9ca54d44b2450f5018713994a7f111f6fc0.jpg?imwidth=1536"
+                ]
+            },
+            "Description & fit": "Classic denim jacket in washed cotton denim with a regular fit. Point collar, button placket, and long sleeves with buttoned cuffs. Two chest pockets with flaps and two side pockets. Timeless style that complements any outfit.",
+            "Length": "Regular",
+            "Fit": "Regular fit",
+            "Style": "Denim jacket",
+            "Description": "Classic denim styling",
+            "Imported": "Yes",
+            "Material": "Cotton 100%",
+            "Care instructions": "Machine wash cold, normal cycle. Do not bleach. Tumble dry low. Iron medium temperature."
+        },
+        {
+            "id": 911,
+            "maincategory": "women",
+            "name": "Pleated Mini Skirt",
+            "category": "Skirts",
+            "price": 19.99,
+            "sizes": ["XS", "S", "M", "L", "XL"],
+            "colors": {
+                "White": [
+                    "https://image.hm.com/assets/hm/cd/f4/cdf49bb6fd74644f226ccaf7ccb8aed079de45f2.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/9c/dc/9cdca092d121cb873adf0a0b6e8285551a50868c.jpg?imwidth=2160",
+                    "https://image.hm.com/assets/hm/f6/b0/f6b0956148736da4538d3ce613ef1d11979241a7.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/b4/96/b496f049489a633660774e125f5da1918a43acd2.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/9d/b5/9db582df049f635663347cb5c85d7f72d8c5b54b.jpg?imwidth=1536"
+                ]
+            },
+            "Description & fit": "Mini skirt in woven fabric with pressed pleats and a flattering A-line silhouette. Concealed zip at back and regular waist. Perfect for both casual and dressy occasions.",
+            "Length": "Mini",
+            "Waist Rise": "Regular waist",
+            "Fit": "Regular fit",
+            "Style": "Pleated A-line skirt",
+            "Description": "Solid-color pleated mini",
+            "Imported": "Yes",
+            "Material": "Polyester 65%, Viscose 35%",
+            "Care instructions": "Machine wash cold, gentle cycle. Do not bleach. Hang to dry. Iron medium temperature."
+        },
+        {
+            "id": 1111,
+            "maincategory": "women",
+            "name": "Oversized Blazer",
+            "category": "Blazers",
+            "price": 59.99,
+            "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+            "colors": {
+                "Dark Gray": [
+                    "https://image.hm.com/assets/hm/d0/68/d06839e400c4573fe375a85d4efe68bc7049d51f.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/79/32/79324c1b01463e3a13ecbecac46c758d3811d68d.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/f0/68/f068a5d42ed3ba0b0f6f8a8626d3696f834194de.jpg?imwidth=1536"
+                ]
+            },
+            "Description & fit": "Oversized blazer in woven fabric with a relaxed fit and contemporary silhouette. Notched lapels, button closure, and long sleeves. Two front pockets and one chest pocket. Perfect for creating polished looks with a modern edge.",
+            "Length": "Regular",
+            "Fit": "Oversized",
+            "Style": "Single-breasted blazer",
+            "Description": "Solid-color oversized blazer",
+            "Imported": "Yes",
+            "Material": "Polyester 68%, Viscose 30%, Elastane 2%",
+            "Care instructions": "Dry clean only. Do not wash, bleach, or tumble dry."
+        },
+        {
+            "id": 1111,
+            "maincategory": "women",
+            "name": "Open-Back Denim Dress",
+            "category": "Dresses",
+            "price": 54.99,
+            "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+            "colors": {
+                "Denim Blue": [
+                    "https://image.hm.com/assets/hm/10/82/108205cf977cf2c18a5c23c8baab0fc8e00480cd.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/90/1a/901a0525e0b40b737d06e2b62a7cafc4b4ed8738.jpg?imwidth=2160",
+                    "https://image.hm.com/assets/hm/20/a0/20a0d16a09f68dfd5446940fb5d23932b9bff25a.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/fd/56/fd56e1c1fdd168d354ac771c346b06afd826c203.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/4a/9d/4a9d3536793e17b91b58d1b59437d993a8322d36.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/77/85/7785db35d4f92405b721d3b68dbe2aec26d9d67c.jpg?imwidth=1536"
+                ]
+            },
+            "Description & fit": "Open-back denim dress in a relaxed fit with a flattering silhouette. Adjustable straps and a concealed zip at the side. Perfect for warm days and casual outings.",
+            "Length": "Midi",
+            "Fit": "Slim fit",
+            "Style": "Flared, Open Back",
+            "Description": "Denim blue, Solid-color",
+            "Imported": "Yes",
+            "Material": "Polyester 68%, Viscose 30%, Elastane 2%",
+            "Care instructions": "Dry clean only. Do not wash, bleach, or tumble dry."
+        },
+        {
+            "id": 1211,
+            "maincategory": "kids",
+            "name": "6-piece Bodysuit and Pants Set",
+            "category": "Newborn",
+            "subcategory": "Outfits & Sets",
+            "price": 39.99,
+            "sizes": ["PM (0-1M)", "NB (1-2M)", "3M (2-4M)", "6M (4-6M)", "9M (6-9M)"],
+            "colors": {
+                "Cream/hearts": [
+                    "https://image.hm.com/assets/hm/9f/03/9f03f797bb37eda4cd86fbae8659733a2e5ed063.jpg?imwidth=1536",
+                    "https://image.hm.com/assets/hm/8d/f9/8df924d9a0790dbb692b5929c74d6f1e5791e18e.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/93/84/938450dbc6e21c490ab71116196d1d2c7e91267c.jpg?imwidth=657"
+                ],
+                "Light taupe/light beige":[
+                    "https://image.hm.com/assets/hm/37/84/37843ff9ddbb823de7dc1db815490b6088b72871.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/b9/c1/b9c19f12e6ce114fd371877fbba10271d2756b23.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/82/79/82790bbe038fa810ccbbc7b08d2793fab469a1df.jpg?imwidth=657"
+                ]
+            },
+            "Description & fit": "Oversized blazer in woven fabric with a relaxed fit and contemporary silhouette. Notched lapels, button closure, and long sleeves. Two front pockets and one chest pocket. Perfect for creating polished looks with a modern edge.",
+            "Length": "Regular",
+            "Fit": "Oversized",
+            "Style": "Single-breasted blazer",
+            "Description": "Solid-color oversized blazer",
+            "Imported": "Yes",
+            "Material": "Polyester 68%, Viscose 30%, Elastane 2%",
+            "Care instructions": "Dry clean only. Do not wash, bleach, or tumble dry."
+        },
+        {
+            "id": 121166,
+            "maincategory": "kids",
+            "name": "5-pack Wrapover Bodysuits",
+            "category": "Newborn",
+            "subcategory": "BodySuits",
+            "price": 24.99,
+            "sizes": ["PM (0-1M)", "NB (1-2M)", "3M (2-4M)", "6M (4-6M)", "9M (6-9M)"],
+            "colors": {
+                "Dusty pink/white": [
+                    "https://image.hm.com/assets/hm/1f/88/1f88c7641691be98dedd70ccbf5c22f6b91e0fcc.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/af/17/af1771230fc8320ea7e07234bbfeca4df38e9020.jpg?imwidth=657"
+                ],
+                "Dusty pink/floral":[
+                    "https://image.hm.com/assets/hm/6c/74/6c74399194c743120b14c5ebb5205a45d6fd89f2.jpg?imwidth=657",
+                    "https://image.hm.com/assets/hm/42/91/4291c5b440ac045130cba6f8f5d0b06fdf0f611c.jpg?imwidth=657"
+                ]
+            },
+            "Description & fit": "Oversized blazer in woven fabric with a relaxed fit and contemporary silhouette. Notched lapels, button closure, and long sleeves. Two front pockets and one chest pocket. Perfect for creating polished looks with a modern edge.",
+            "Length": "Regular",
+            "Fit": "Oversized",
+            "Style": "Single-breasted blazer",
+            "Description": "Solid-color oversized blazer",
+            "Imported": "Yes",
+            "Material": "Polyester 68%, Viscose 30%, Elastane 2%",
+            "Care instructions": "Dry clean only. Do not wash, bleach, or tumble dry."
+        }
+    ]
+}
