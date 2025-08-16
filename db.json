@@ -1,4 +1,14 @@
-{
+{    "users" : [
+        {
+            "id":1,
+            "Firstname": "John",
+            "Lastname": "Doe",
+            "email": "john.doe@example.com",
+            "phone": "123-456-7890",
+            "password": "password123",
+            "Isactive": true
+        }
+                ],
     "clothes": [
         {
             "id": 1,
