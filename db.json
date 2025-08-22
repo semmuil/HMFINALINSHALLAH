@@ -7,6 +7,15 @@
             "phone": "123-456-7890",
             "password": "password123",
             "Isactive": false
+        },
+        {
+            "id":2,
+            "Firstname": "Admin",
+            "Lastname": "User",
+            "email": "admin@example.com",
+            "phone": "123-456-7890",
+            "password": "admin123",
+            "Isactive": false
         }
                 ],
     "clothes": [
