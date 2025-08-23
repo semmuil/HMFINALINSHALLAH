@@ -68,7 +68,7 @@
             "name": "Crossbody Bag",
             "category": "Bags",
             "price": 29.99,
-            "sizes": [],
+            "sizes": ["Small","Big"],
             "colors": {
                 "Cream": [
                     "https://image.hm.com/assets/hm/95/19/9519dfc49e205226b435f82651941fec65400bd4.jpg?imwidth=1536",
